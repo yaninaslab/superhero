@@ -1,0 +1,63 @@
+body {
+    font-family: "Montserrat";
+}
+
+/*body {
+  background-image: url('heroes_bright.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}*/
+
+
+.bg-image {
+  opacity: 0.1;
+}
+
+.bg-image:hover {
+  opacity: 1.0;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.0rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+.nav-link {
+    margin: 0px 10px;
+}
+.title-desc {
+    font-size: 1.2rem;
+}
+
+.nav-item {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+#maskIcon {
+    color: #C52525;
+}
+
+.formdiv {
+    display: inline-block;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+body {
+    padding-bottom: 50px;
+}
+
+
+

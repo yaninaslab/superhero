@@ -1,0 +1,14 @@
+com/sg/superhero/entities/SuperPower.class
+com/sg/superhero/repositories/SuperPowerRepository.class
+com/sg/superhero/controller/SuperHeroRestController.class
+com/sg/superhero/SuperHeroApplication.class
+com/sg/superhero/repositories/OrganizationRepository.class
+com/sg/superhero/entities/Location.class
+com/sg/superhero/repositories/SuperHeroSightingRepository.class
+com/sg/superhero/controller/SuperHeroCreateController.class
+com/sg/superhero/entities/SuperHeroSighting.class
+com/sg/superhero/entities/SuperHero.class
+com/sg/superhero/entities/Organization.class
+com/sg/superhero/repositories/SuperHeroRepository.class
+com/sg/superhero/controller/SuperHeroSearchController.class
+com/sg/superhero/repositories/LocationRepository.class
