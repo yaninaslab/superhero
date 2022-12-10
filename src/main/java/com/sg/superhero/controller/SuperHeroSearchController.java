@@ -17,6 +17,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.sg.superhero.dto.SightingDTO;
+import com.sg.superhero.dto.SuperHeroDTO;
 import com.sg.superhero.entities.Location;
 import com.sg.superhero.entities.Organization;
 import com.sg.superhero.entities.SuperHero;
@@ -99,7 +100,7 @@ public class SuperHeroSearchController {
                 
         model.addAttribute("organizations", orgs);
         model.addAttribute("superpowers", superPowers);
-        model.addAttribute("superHeroObj",new SuperHero());
+        model.addAttribute("superHeroObj",new SuperHeroDTO());
         
         return "superheros";
         

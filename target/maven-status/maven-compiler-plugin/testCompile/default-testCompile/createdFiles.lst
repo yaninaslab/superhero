@@ -1,1 +1,3 @@
-com/sg/inventory/InventoryApplicationTests.class
+com/sg/superhero/repositories/LocationRepositoryTest.class
+com/sg/superhero/repositories/OrganizationRepositoryTest.class
+com/sg/superhero/SuperHeroApplicationTests.class
